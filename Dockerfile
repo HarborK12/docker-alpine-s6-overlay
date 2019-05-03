@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:3.9
 MAINTAINER Michael Martin <mmartin@fuelingbrands.com>
 
 #----------------------------------------------------
